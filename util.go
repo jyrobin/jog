@@ -1,3 +1,5 @@
+// Copyright (c) 2021 Jing-Ying Chen. Subject to the MIT License.
+
 package jog
 
 import (
